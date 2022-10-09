@@ -1,4 +1,4 @@
-# ConveniencyStoreProject
+# ConveniencyStoreI
 
 A. I modelled a convenience store using OOP Concepts:
 
